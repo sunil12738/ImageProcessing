@@ -54,22 +54,3 @@ example: It was ran on 100 numbers to form 6 cluster. The result are
 47 48 47 49 47 49 48 49 48 48 50 50 centroid[5]=48
 
 -------------------------------------------------------------------------------------------------------------
-Linear Regression.
-------------------
-To find the best fit for the given dataset.
-There are two files
-l_g_1d.m: data is of type x{x1,x2,...,xn},y={y1,y2,...,yn}
-	example:
-	x 1 2 3 4 4 5 5 6 6 7
-	y 7 8 9 8 9 11 10 13 14 13
-	answer: y = 1.165109x + 5.190031
-l_g_2d.m: data is of type x(nXm matrix) y(nX1)
-It gives best possible fit for data.
-	example:
-	a + 3b = 17
-	5a + 7b = 19
-	11a + 13b = 23
-	answer : 	a = −7.513158
-				b = 8.118421
-
--------------------------------------------------------------------------------------------------------------
